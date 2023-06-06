@@ -1,0 +1,7 @@
+{
+    "editor.codeAcrionsOnSave": {
+        "source.fixAll.esling": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
